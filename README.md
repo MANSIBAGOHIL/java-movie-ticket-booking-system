@@ -1,4 +1,4 @@
-# java-movie-ticket-booking-system
+# Movie Ticket Booking System
 
 ![Java](https://img.shields.io/badge/Java-Desktop%20Application-ED8B00?logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-5382A1)
