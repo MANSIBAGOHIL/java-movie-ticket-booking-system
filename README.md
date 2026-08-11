@@ -107,7 +107,7 @@ The original documentation references these Apache POI-era JARs:
 
 ![Seat-selection screen](screenshots/seat-selection.png)
 
-![Booking confirmation](screenshots/booking-confirmation.png)
+![Booking confirmation](screenshots/ticket-booking-2.png)
 
 ## Contributors
 
