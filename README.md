@@ -6,8 +6,6 @@
 
 Java Swing desktop application for browsing cinemas, movies, and showtimes, selecting available seats, and confirming ticket bookings.
 
-A Java desktop application for browsing cinemas, movies, and showtimes, selecting available seats, entering customer details, and confirming a movie-ticket booking. The project was developed as an Object-Oriented Programming course project using Java Swing and AWT.
-
 ## Technologies
 
 - Java
